@@ -1,5 +1,5 @@
 # progress_praktikum
 
-Nama: Muhammad Hanif
-NPM: 2210631170084
-Kelas: 5C - Informatika
+<p>Nama: Muhammad Hanif</p>
+<p>NPM: 2210631170084</p>
+<p>Kelas: 5C - Informatika</p>
